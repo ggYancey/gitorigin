@@ -18,4 +18,5 @@ dev:aaaa
 
 master:buggggg
 
+dev:push
 
